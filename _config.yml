@@ -65,21 +65,21 @@ plugins:
   - jemoji
   - jekyll-include-cache
 
-# author:
-#   name   : "Shnbo Wang"
-#   avatar : "/assets/images/bio-photo.jpg"
-#   location: "Sydney, NSW, Australia"
-#   bio    : "There is at least one thing I got convinced, that \"all men are created equal, that they are endowed by their Creator with certain unalienable Rights, that among these are Life, Liberty and the pursuit of Happiness.\""
-#   links:
-#     - label: "Google Scholar"
-#       icon: "fab fa-google"
-#       url: "https://scholar.google.com/citations?user=4Kdt5eQAAAAJ&hl=en"
-#     - label: "ORCID"
-#       icon: "fab fa-orcid"
-#       url: "https://orcid.org/0000-0003-2447-166X"
-#     - label: "GitHub"
-#       icon: "fab fa-fw fa-github"
-#       url: "https://github.com/ShengboWang"
+author:
+  name   : "Shnbo Wang"
+  avatar : "/assets/images/bio-photo.jpg"
+  location: "Sydney, NSW, Australia"
+  bio    : "There is at least one thing I got convinced, that \"all men are created equal, that they are endowed by their Creator with certain unalienable Rights, that among these are Life, Liberty and the pursuit of Happiness.\""
+  links:
+    - label: "Google Scholar"
+      icon: "fab fa-google"
+      url: "https://scholar.google.com/citations?user=4Kdt5eQAAAAJ&hl=en"
+    - label: "ORCID"
+      icon: "fab fa-orcid"
+      url: "https://orcid.org/0000-0003-2447-166X"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/ShengboWang"
 
 sidebar:
   - title: "Title"
