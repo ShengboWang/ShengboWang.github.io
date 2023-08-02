@@ -13,16 +13,24 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: MM
-email:
+title: "Shnbo"
+title_separator: "|"
+email: shnbo.wang@foxmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-twitter_username: username
-github_username: username
+  This is a personal website of Shnbo including blogs, research progresses and main works.
+subtitle: "personal website"
+
+teaser: /assets/images/sig.jpg
+logo: "/assets/images/sig.jpg"
+
+# twitter_username: ShnboWang
+# github_username: ShengboWang
 minimal_mistakes_skin: default
+
+
 search: true
+lunr:
+  search_within_pages: true
 
 # Build settings
 markdown: kramdown
@@ -57,35 +65,44 @@ plugins:
   - jemoji
   - jekyll-include-cache
 
-author:
-  name   : "First Lastname"
-  avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
-  links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+# author:
+#   name   : "Shnbo Wang"
+#   avatar : "/assets/images/bio-photo.jpg"
+#   location: "Sydney, NSW, Australia"
+#   bio    : "There is at least one thing I got convinced, that \"all men are created equal, that they are endowed by their Creator with certain unalienable Rights, that among these are Life, Liberty and the pursuit of Happiness.\""
+#   links:
+#     - label: "Google Scholar"
+#       icon: "fab fa-google"
+#       url: "https://scholar.google.com/citations?user=4Kdt5eQAAAAJ&hl=en"
+#     - label: "ORCID"
+#       icon: "fab fa-orcid"
+#       url: "https://orcid.org/0000-0003-2447-166X"
+#     - label: "GitHub"
+#       icon: "fab fa-fw fa-github"
+#       url: "https://github.com/ShengboWang"
 
-footer:
-  links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+sidebar:
+  - title: "Title"
+    image: http://placehold.it/350x250
+    image_alt: "image"
+    text: "Some text here."
+  - title: "Another Title"
+    text: "More text here."
+
+# footer:
+#   links:
+    # - label: "Google Scholar"
+    #   icon: "fab fa-google"
+    #   url: "https://google.com/"
+    # - label: "ORCID"
+    #   icon: "fab fa-orcid"
+    #   url: "https://twitter.com/"
+    # - label: "GitHub"
+    #   icon: "fab fa-fw fa-github"
+    #   url: "https://github.com/"
+
+atom_feed:
+  hide: true
 
 defaults:
   # _posts
@@ -94,9 +111,9 @@ defaults:
       type: posts
     values:
       layout: single
-      author_profile: true
+      author_profile: false
       read_time: true
-      comments: true
+      comments: false
       share: true
       related: true
   # _pages
@@ -105,7 +122,9 @@ defaults:
       type: pages
     values:
       layout: single
-      author_profile: true
+      author_profile: false
+      show_date: true
+      
 
 category_archive:
   type: liquid
