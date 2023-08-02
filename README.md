@@ -1,19 +1,27 @@
-[![](https://img.shields.io/badge/Say%20Thanks-!-1EAEDB.svg)](https://saythanks.io/to/wild-flame)
+# Minimal Mistakes remote theme starter
 
-# jekyll-simple
+Click [**Use this template**](https://github.com/mmistakes/mm-github-pages-starter/generate) button above for the quickest method of getting started with the [Minimal Mistakes Jekyll theme](https://github.com/mmistakes/minimal-mistakes).
 
-## simple
-simple is a theme designed for blogger using static site generator like jekyll, Hexo etc.
+Contains basic configuration to get you a site with:
 
-Especially for those who writes in both Chinese and English. The font-type setting looks really good when writers use Chinese mixed with English.
+- Sample posts.
+- Sample top navigation.
+- Sample author sidebar with social links.
+- Sample footer links.
+- Paginated home page.
+- Archive pages for posts grouped by year, category, and tag.
+- Sample about page.
+- Sample 404 page.
+- Site wide search.
 
-Supposedly, this could work with Japanese as well but never had a chance to try.
+Replace sample content with your own and [configure as necessary](https://mmistakes.github.io/minimal-mistakes/docs/configuration/).
 
-## Story behind this theme
+---
 
-It has been long that using font with Chinese in web was a tedious and time-consuming work. It would be almost impossible to make different OS or devices to look the same.
+## Troubleshooting
 
-iOS 9 has pulished some new fonts in Chinese and I decided to make one theme that looks good on iOS devices, at the same time, making it acceptable on computers using other fonts.
+If you have a question about using Jekyll, start a discussion on the [Jekyll Forum](https://talk.jekyllrb.com/) or [StackOverflow](https://stackoverflow.com/questions/tagged/jekyll). Other resources:
 
-So mobile goes first, then the macOS.
-
+- [Ruby 101](https://jekyllrb.com/docs/ruby-101/)
+- [Setting up a Jekyll site with GitHub Pages](https://jekyllrb.com/docs/github-pages/)
+- [Configuring GitHub Metadata](https://github.com/jekyll/github-metadata/blob/master/docs/configuration.md#configuration) to work properly when developing locally and avoid `No GitHub API authentication could be found. Some fields may be missing or have incorrect data.` warnings.
