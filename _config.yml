@@ -18,15 +18,13 @@ title_separator: "|"
 email: shnbo.wang@foxmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   This is a personal website of Shnbo including blogs, research progresses and main works.
-subtitle: "personal website"
+subtitle: "Personal website of Shnbo Libert Wang"
 
-teaser: /assets/images/sig.jpg
-logo: "/assets/images/sig.jpg"
 
-# twitter_username: ShnboWang
-# github_username: ShengboWang
-minimal_mistakes_skin: default
-
+# teaser: /assets/images/sig.jpg
+logo: "/assets/images/sig.png"
+breadcrumbs: true  # disabled by default
+minimal_mistakes_skin: contrast
 
 search: true
 lunr:
@@ -35,11 +33,7 @@ lunr:
 # Build settings
 markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes
-# Outputting
-permalink: /:categories/:title/
-paginate: 5 # amount of posts to show
-paginate_path: /page:num/
-timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+
 
 include:
   - _pages
@@ -67,7 +61,7 @@ plugins:
 
 author:
   name   : "Shnbo Wang"
-  avatar : "/assets/images/bio-photo.jpg"
+  avatar : "/assets/images/my_photo.jpg"
   location: "Sydney, NSW, Australia"
   bio    : "There is at least one thing I got convinced, that \"all men are created equal, that they are endowed by their Creator with certain unalienable Rights, that among these are Life, Liberty and the pursuit of Happiness.\""
   links:
@@ -81,26 +75,6 @@ author:
       icon: "fab fa-fw fa-github"
       url: "https://github.com/ShengboWang"
 
-sidebar:
-  - title: "Title"
-    image: http://placehold.it/350x250
-    image_alt: "image"
-    text: "Some text here."
-  - title: "Another Title"
-    text: "More text here."
-
-# footer:
-#   links:
-    # - label: "Google Scholar"
-    #   icon: "fab fa-google"
-    #   url: "https://google.com/"
-    # - label: "ORCID"
-    #   icon: "fab fa-orcid"
-    #   url: "https://twitter.com/"
-    # - label: "GitHub"
-    #   icon: "fab fa-fw fa-github"
-    #   url: "https://github.com/"
-
 atom_feed:
   hide: true
 
@@ -112,10 +86,11 @@ defaults:
     values:
       layout: single
       author_profile: false
-      read_time: true
+      # read_time: true
       comments: false
       share: true
       related: true
+      show_date: true
   # _pages
   - scope:
       path: "_pages"
@@ -124,11 +99,3 @@ defaults:
       layout: single
       author_profile: false
       show_date: true
-      
-
-category_archive:
-  type: liquid
-  path: /categories/
-tag_archive:
-  type: liquid
-  path: /tags/

@@ -1,8 +1,18 @@
 ---
+title: About me
 permalink: /about/
-title: "About"
+author_profile: true
+classes: wide
 ---
+I am PhD student with the [COLA Laboratory](https://colalab.ai), College of Computer Science and Engineering, University of Electronic Science and Technology of China (UESTC), and also a visiting scholar with [the Intelligent Computing and Systems Lab](https://www.uts.edu.au/research/centre-artificial-intelligence/aaii-research/aaii-research-labs/intelligent-computing-and-systems), AAII, University of Technology Sydney. My research interests include the control theory, optimization theory, and stochastic processes. The major topic of my research is safe control and optimization. More specifically, I am investigating the safe control frameworks for autonomous systems, including safe control design, safe/constrained optimization and the applications in robotics and healthcare. Currently, I am studying the control barrier function method, meta-learning, and Bayesian optimization. Some preliminary works can be found in my [Google Scholar profile](https://scholar.google.com/citations?user=4Kdt5eQAAAAJ&hl=en).
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+# About this website
+In addition to some introductions of my previous work, I will maintain a record to my daily study including notes of courses and lists of reading papers. Moreover, some chit-chat, which is more important to myself of my interested fields such like books, gaming and diaries, will be posted. Perhaps this is the key motivation for this personal website. By the way, I insist on using Chinese to some content in consideration of the expressiveness.
+
+
+Finally, it is nice to meet you, my dear friend. 
+
+
+> 余忆童稚时，能张目对日，明察秋毫，见藐小之物必细察其纹理，故时有物外之趣。
+> <p align="right">——清 · 沈复</p>
