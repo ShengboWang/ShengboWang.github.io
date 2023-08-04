@@ -23,8 +23,8 @@ subtitle: "Personal website of Shnbo Libert Wang"
 
 # teaser: /assets/images/sig.jpg
 logo: "/assets/images/sig.png"
-breadcrumbs: true  # disabled by default
-minimal_mistakes_skin: contrast
+breadcrumbs: false  # disabled by default
+minimal_mistakes_skin: default
 
 search: true
 lunr:
@@ -88,7 +88,7 @@ defaults:
       author_profile: false
       # read_time: true
       comments: false
-      share: true
+      share: false
       related: true
       show_date: true
   # _pages
@@ -98,4 +98,4 @@ defaults:
     values:
       layout: single
       author_profile: false
-      show_date: true
+      show_date: false
