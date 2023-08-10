@@ -15,4 +15,6 @@ Finally, it is nice to meet you, my dear friend.
 
 
 > 余忆童稚时，能张目对日，明察秋毫，见藐小之物必细察其纹理，故时有物外之趣。
-> <p align="right">——清 · 沈复</p>
+>
+> (I remember that when I was a child, I could stare at the sun with wide, open eyes. I could see the tiniest objects, and loved to observe the fine grains and patterns of small things, from which I derived a romantic, unworldly pleasure.)
+> <p align="right">—— 清 · 沈复 (Translated by Lin Yutang)</p>
