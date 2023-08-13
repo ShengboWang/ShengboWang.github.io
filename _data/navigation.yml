@@ -3,5 +3,9 @@ main:
     url: /research/
   - title: "My Blog"
     url: /blog/
+  # - title: "Categories"
+  #   url: /categories/
+  # - title: "Tags"
+  #   url: /tags/
   - title: "About"
     url: /about/

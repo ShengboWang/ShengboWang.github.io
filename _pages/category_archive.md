@@ -1,6 +1,6 @@
 ---
 title: Categories
-permalink: /categories
+permalink: /blog/categories
 layout: categories
 author_profile: true
 classes: wide
