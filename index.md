@@ -12,7 +12,7 @@ classes: wide
   <h1>Welcome</h1>
   <p>Welcome to Shnbo's website! Please see <a href="/about">About</a> for a brief introduction to this website. For research purposes, please see <a href="/research">Research</a>. This page includes some news about the research works, and update information of the blogs </p>
 </div> -->
-***Welcome*** to Shnbo's website! Please see [**About**](/about) for a brief introduction to this website. For research purposes, please see [**Research**](/research). This page includes some news about the research works, and update information of the blogs.
+***Welcome*** to Shnbo's website! Please see [**About**](/about) for a brief introduction to this website. For research dissections, please see [**Research**](/research). This page includes some news about the research works, and update information of the blogs.
 
 
 <div class="notice--info">
@@ -28,7 +28,7 @@ classes: wide
   <h1>Ongoing work</h1>
   <ul>
   <li> An improved method for constrained optimization </li>
-  <li> Performance enhancement for Safe control </li>
+  <li> Performance enhancement for safety-critical control </li>
   </ul>
 </div>
 

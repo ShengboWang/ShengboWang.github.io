@@ -44,7 +44,7 @@ gallery:
 
 {% include figure image_path="/assets/images/zelda/Link_dragon_flower.jpg" alt="this is a placeholder image" caption="白龙继续飞往远方，地上围绕着一片静谧公主。夜色突出了所有的光彩和轮廓." %}
 
-第二天，他回到为公主建造的房间，收拾出一个发带扎起头发，继续前往四方。公主会回来的，和平也会重返海拉鲁大地，但林克的心里似乎有一个幻想破灭了，一个与公主一起兴办教育、建设家园的幻想，终是要托付给明天。
+第二天，他回到为公主建造的房间，收拾出一个发带扎起头发，继续前往四方。公主会回来的，和平也会重返海拉鲁大地，但林克的心里似乎有一个梦想破灭了：一个与公主一起兴办教育、建设家园的梦想，终是要托付给明天。
 
 {% include figure image_path="/assets/images/zelda/Link_zelda_home.jpg" alt="this is a placeholder image" caption="在公主的房间，挂着学生孩子们的画。画里有穿同样湛蓝色衣服的公主，还有海拉鲁家园." %}
 
