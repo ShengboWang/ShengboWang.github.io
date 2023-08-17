@@ -19,16 +19,18 @@ classes: wide
   <h1>Recent News</h1>
   <h4> Preprint </h4>
   <ul>
-  <!-- <li> <u>"Constrained Bayesian Optimization Under Partial Observations: Balanced Improvements and Provable Convergence"</u> (August 2023). <b>Links:</b>  <a href="https://www.mozilla.org/zh-CN/">:page_facing_up:</a> </li>a'r -->
-  <li> "<u>Model-Assisted Probabilistic Safe Adaptive Control With Meta-Bayesian Learning</u>", July 2023. <b>Links:</b>  <a href="https://arxiv.org/abs/2307.00828">:page_facing_up:</a> </li>
+  <li> Constrained Bayesian Optimization Under Partial Observations: Balanced Improvements and Provable Convergence
+  <br > <i class="far fa-calendar-alt"></i> Aug, 2023  &nbsp; |  &nbsp; <i class="far fa-file-alt"></i> <a href="">  PDF </a> </li>
+  <li> Model-Assisted Probabilistic Safe Adaptive Control With Meta-Bayesian Learning
+  <br > <i class="far fa-calendar-alt"></i> Jul,&nbsp;&nbsp; 2023 &nbsp;  |  &nbsp; <i class="far fa-file-alt"></i> <a href="https://arxiv.org/abs/2307.00828">PDF</a> </li>
   </ul>
 </div>
 
 <div class="notice--warning">
   <h1>Ongoing work</h1>
-  <ul>
-  <li> An improved method for constrained optimization </li>
-  <li> Performance enhancement for safety-critical control </li>
+  <ul class="fa-ul">
+  <li> <i class="fa-li far fa-square"></i> Safe optimization for black-box optimization problems </li>
+  <li> <i class="fa-li far fa-square"></i> Performance enhancement for safety-critical control systems </li>
   </ul>
 </div>
 

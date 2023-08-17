@@ -4,4 +4,4 @@ permalink: /research/
 layout: splash
 ---
 
-### To be released. Thanks for your patience!
+<b>This page is under construction. Thanks for your interests!</b>

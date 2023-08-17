@@ -16,7 +16,6 @@ categories:
   - Daily Life
 tags:
   - gaming
-  - story
   - The Legend of Zelda
 
 gallery:
