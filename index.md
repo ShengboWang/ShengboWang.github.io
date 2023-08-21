@@ -19,8 +19,6 @@ classes: wide
   <h1>Recent News</h1>
   <h4> Preprint </h4>
   <ul>
-  <!-- <li> Constrained Bayesian Optimization Under Partial Observations: Balanced Improvements and Provable Convergence
-  <br > <i class="far fa-calendar-alt"></i> Aug, 2023  &nbsp; |  &nbsp; <i class="far fa-file-alt"></i> <a href="">  PDF </a> </li> -->
   <li> Model-Assisted Probabilistic Safe Adaptive Control With Meta-Bayesian Learning
   <br > <i class="far fa-calendar-alt"></i> Jul,&nbsp;&nbsp; 2023 &nbsp;  |  &nbsp; <i class="far fa-file-alt"></i> <a href="https://arxiv.org/abs/2307.00828">PDF</a> </li>
   </ul>
