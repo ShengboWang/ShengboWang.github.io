@@ -19,7 +19,7 @@ tags:
 
 <!-- Simplify literature-review processes using python. -->
 
-It always bothers me that a huge number of related papers show out when I search a few keywords in a web search engine such as the *Google Scholar* and *IEEE*. Among these engines, I found *Semantic Scholar* very helpful since it provides a free [**API**](https://www.semanticscholar.org/product/api) for us to request directly by codes and save the outputs locally. At a first glance, it further complicates the reviewing processes. Let's see how it can facilitate the entire processes. 
+It always bothers me that a huge number of related papers show out when I search a few keywords in a web search engine such as the Google Scholar and IEEE. Among these engines, I found Semantic Scholar very helpful since it provides a free API for us to request directly by codes and save the outputs locally. At a first glance, it further complicates the reviewing processes. Let’s see how it can facilitate the entire processes.
 
 ### Prerequisites
 Recently, I am preparing an overview subject to the design of control barrier function method towards different kinds of uncertainty. 
