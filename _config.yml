@@ -23,7 +23,7 @@ subtitle: "Personal website of Shnbo Libert Wang"
 
 teaser: /assets/images/sig.png
 logo: "/assets/images/sig.png"
-breadcrumbs: true  # disabled by default
+breadcrumbs: false  # disabled by default
 minimal_mistakes_skin: default
 
 # search: true

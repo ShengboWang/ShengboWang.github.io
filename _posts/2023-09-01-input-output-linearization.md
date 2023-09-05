@@ -21,7 +21,7 @@ tags:
   src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-MML-AM_CHTML">
 </script>
 
-The feedback linearization techniques facilitate more effective control of a nonlinear system. When only partial state variables or given outputs are measurable, input-output linearization (IOL) may simplify the control processes. This note includes the basic idea of IOL with its key assumptions, as well as its application in nonlinear safe control tasks.
+The feedback linearization techniques facilitate more effective control of a nonlinear system. When only partial state variables or given outputs are measurable, input-output linearization (IOL) may simplify the control processes. This note includes the basic idea of IOL with its key assumptions, as well as its applications in nonlinear safe control tasks.
 
 ### System description
 To achieve IOL, the nonlinear system should take the control-affine form with same dimensions in input and output, given as
