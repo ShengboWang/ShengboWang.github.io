@@ -12,11 +12,16 @@ classes: wide
   <h1>Welcome</h1>
   <p>Welcome to Shnbo's website! Please see <a href="/about">About</a> for a brief introduction to this website. For research purposes, please see <a href="/research">Research</a>. This page includes some news about the research works, and update information of the blogs </p>
 </div> -->
-***Welcome*** to Shnbo's website! Please see [**About**](/about) for a brief introduction to this website. For research dissections, please see [**Research**](/research). This page includes some news about the research works, and update information of the blogs.
+***Welcome*** to Libert's website! Please see [**About**](/about) for a brief introduction to this website. For research dissections, please see [**Research**](/research). This page includes some news about the research works, and update information of the blogs.
 
 
 <div class="notice--info">
   <h1>Recent News</h1>
+  <h4> Published </h4>
+  <ul>
+  <li> Constrained Bayesian optimization under partial observations: Balanced improvements and provable convergence
+  <br > <i class="far fa-calendar-alt"></i> Mar,&nbsp;&nbsp; 2024 &nbsp;  |  &nbsp; <i class="far fa-file-alt"></i> <a href="https://colalab.ai/publications/WangL24.pdf">PDF</a> </li>
+  </ul>
   <h4> Preprint </h4>
   <ul>
   <li> Model-Assisted Probabilistic Safe Adaptive Control With Meta-Bayesian Learning
@@ -27,7 +32,7 @@ classes: wide
 <div class="notice--warning">
   <h1>Ongoing work</h1>
   <ul class="fa-ul">
-  <li> <i class="fa-li far fa-square"></i> Safe optimization for black-box optimization problems </li>
+  <li> <i class="fa-li far fa-square"></i> Bandits for preference elicitation </li>
   <li> <i class="fa-li far fa-square"></i> Performance enhancement for safety-critical control systems </li>
   </ul>
 </div>
