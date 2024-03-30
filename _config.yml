@@ -61,7 +61,7 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "Shnbo Wang"
+  name   : "Libert Wang"
   avatar : "/assets/images/my_photo1.jpg"
   location: "Sydney, NSW, Australia"
   bio    : "There is at least one thing I got convinced, that \"all men are created equal, that they are endowed by their Creator with certain unalienable Rights, that among these are Life, Liberty and the pursuit of Happiness.\""
