@@ -13,12 +13,12 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: "Shnbo"
+title: "Libert"
 title_separator: "|"
 email: shnbo.wang@foxmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  This is a personal website of Shnbo including blogs, research progresses and main works.
-subtitle: "Personal website of Shnbo Libert Wang"
+  This is a personal website of Libert including blogs, research progresses and main works.
+subtitle: "Personal website of Libert Wang"
 
 
 teaser: /assets/images/sig.png
@@ -62,7 +62,7 @@ plugins:
 
 author:
   name   : "Shnbo Wang"
-  avatar : "/assets/images/my_photo.jpg"
+  avatar : "/assets/images/my_photo1.jpg"
   location: "Sydney, NSW, Australia"
   bio    : "There is at least one thing I got convinced, that \"all men are created equal, that they are endowed by their Creator with certain unalienable Rights, that among these are Life, Liberty and the pursuit of Happiness.\""
   links:
