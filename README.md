@@ -1,4 +1,4 @@
-Test for connection to local rep.
+Test for connection to local rep 1.
 
 
 # Minimal Mistakes remote theme starter
