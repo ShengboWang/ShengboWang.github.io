@@ -1,4 +1,4 @@
-Test for connection to local rep 1.
+Add gem 'mutex_m' in Gemfile to solve the issue on MAC.
 
 
 # Minimal Mistakes remote theme starter
